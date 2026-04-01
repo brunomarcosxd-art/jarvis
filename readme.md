@@ -7,12 +7,15 @@
 A real-time voice AI that can hear, see, understand, and control your Windows computer.
 Local execution. Zero subscriptions (unless you want to increase requests via Google AI Studio).
 Built for intelligent automation.
+
 ---
 ## ✨ Overview
+
 
 **MARK XXXV** is an advanced voice-driven AI assistant designed to turn your computer into an interactive intelligent system.
 Speak naturally — it listens, understands context, responds with a human-like voice, and executes tasks across your system automatically.
 Designed for speed, autonomy, and real-world usability.
+
 ---
 ## 🚀 Capabilities
 
